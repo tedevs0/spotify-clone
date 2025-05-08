@@ -25,7 +25,7 @@ export default function Login() {
   };
 
   return (
-    <div className="h-screen flex items-center justify-center bg-black text-white">
+    <div className="h-[calc(100vh-80px)] flex items-center justify-center bg-amber-100 text-white">
       <button
         onClick={handleLogin}
         className="bg-green-500 hover:bg-green-600 text-black px-6 py-3 rounded-xl font-bold shadow-md"

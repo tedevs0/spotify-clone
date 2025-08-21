@@ -21,7 +21,7 @@ dist-ssr
 .env.development
 .env.test
 .env.production
-.env.example
+env.example
 .env.example.local
 
 # Editor directories and files

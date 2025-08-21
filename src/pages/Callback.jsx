@@ -1,4 +1,3 @@
-// src/pages/Callback.jsx
 import { useEffect, useRef } from "react";
 
 import { useNavigate } from "react-router-dom";

@@ -1,4 +1,3 @@
-// src/components/Login.jsx
 import { generateCodeVerifier, generateCodeChallenge } from "../auth/pkce";
 
 const CLIENT_ID = import.meta.env.VITE_SPOTIFY_CLIENT_ID;
